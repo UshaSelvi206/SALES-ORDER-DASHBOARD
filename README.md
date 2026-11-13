@@ -10,7 +10,7 @@ The dashboard provides a consolidated view of sales operations, enabling stakeho
 
 ## Dashboard Preview
 
-![SALES ORDER DASHBOARD](images/Screenshot.png)
+![SALES ORDER DASHBOARD](Screenshot.png)
 
 ## Business Objectives
 
