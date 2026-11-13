@@ -72,8 +72,7 @@ The dashboard provides a consolidated view of sales operations, enabling stakeho
 ## Tools & Technologies
 
 - **Data Source:** Sales Orders Dataset
-- **Visualization:** [Add your tool – Excel / Power BI / Tableau / Python]
-- **Data Analysis:** [Add the relevant tool or programming language]
+- **Visualization:** Power BI 
 
 ## Conclusion
 
